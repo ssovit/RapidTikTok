@@ -1,0 +1,31 @@
+{
+	"name": "ssovit/rapid-tiktok",
+	"description": "Unofficial TikTok API for PHP via RapidAPI",
+	"license": "MIT",
+	"homepage": "https://github.com/ssovit/RapidTikTok",
+	"keywords": [
+		"tiktok",
+		"tiktok-api",
+		"tiktok-scraper"
+	],
+	"authors": [
+
+		{
+			"name": "Sovit Tamrakar",
+			"email": "sovit.tamrakar@gmail.com",
+			"homepage": "https://github.com/ssovit/",
+			"role": "Developer"
+		}
+	],
+	"support": {
+		"source": "https://github.com/ssovit/RapidTikTok",
+		"issues": "https://github.com/ssovit/RapidTikTok/issues",
+		"email": "sovit.tamrakar@gmail.com"
+	},
+	"autoload": {
+		"psr-4": {
+			"RapidTikTok\\": "lib"
+		}
+	},
+	"type": "library"
+}
