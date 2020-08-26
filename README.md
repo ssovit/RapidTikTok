@@ -33,10 +33,10 @@ $videoData=$api->getVideoByUrl("https://www.tiktok.com/@zachking/video/682930357
 $api=new \RapidTikTok\Api(array(
 		"api-key"=>"RAPID_API_KEY"
 		"user-agent"     => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36',
-        "proxy-host"     => false,
-        "proxy-port"     => false,
-        "proxy-username" => false,
-        "proxy-password" => false
+		"proxy-host"     => false,
+		"proxy-port"     => false,
+		"proxy-username" => false,
+		"proxy-password" => false
     ));
 ```
 
