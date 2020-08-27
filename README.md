@@ -1,5 +1,5 @@
 # RapidTikTok
-[![GitHub issues](https://img.shields.io/github/issues/ssovit/RapidTikTok?style=for-the-badge)](https://github.com/ssovit/RapidTikTok/issues) ![Packagist Downloads](https://img.shields.io/packagist/dm/ssovit/RapidTikTok?style=for-the-badge) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ssovit/RapidTikTok/Create%20Tag?style=for-the-badge) [![GitHub license](https://img.shields.io/github/license/ssovit/RapidTikTok?style=for-the-badge)](https://github.com/ssovit/RapidTikTok/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/ssovit/RapidTikTok?style=for-the-badge)](https://github.com/ssovit/RapidTikTok/issues) ![Packagist Downloads](https://img.shields.io/packagist/dm/ssovit/rapid-tiktok?style=for-the-badge) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ssovit/RapidTikTok/Create%20Tag?style=for-the-badge) [![GitHub license](https://img.shields.io/github/license/ssovit/RapidTikTok?style=for-the-badge)](https://github.com/ssovit/RapidTikTok/blob/master/LICENSE)
 
 TikTok API Wrapper library for TikTok endpoints on RapidAPI https://rapidapi.com/wppressapi-wppressapi-default/api/tiktok9
 
