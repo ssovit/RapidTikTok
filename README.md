@@ -54,3 +54,7 @@ It's highly recommended that you use proxy to prevent your IP from getting banne
 - `getVideoByUrl` - Get video by URL `getVideoByUrl($video_url)`
 
 `$maxCursor` defaults to `0`, and is offset for results page. `maxCursor` for next page is exposed on current page call feed object.
+
+# Want to copy of my source code?
+Service endpoints are done in NodeJs in ExpressJS, but a PHP variant can be done on order for all endpoints, including `non watermarked videos`
+Contact via email sovit.tamrakar@gmail.com
